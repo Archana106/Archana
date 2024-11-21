@@ -1,7 +1,7 @@
 import streamlit as st
 
 # Set the title of the web application
-st.title("Thevenins theorem - 2205A21068")  # Replace with your roll number
+st.title("Thevenins theorem - 2205A21064(ARCHANA)")  # Replace with your roll number
 
 # Function to calculate IL and PL
 def calculate(Vth, Rth, RL):
